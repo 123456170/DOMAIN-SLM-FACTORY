@@ -1,0 +1,8 @@
+# Domain Small-Language-Model Factory — free, open-source, CPU-only, no API keys.
+# Install:  pip install -r requirements.txt
+# Run:      streamlit run app.py
+streamlit
+streamlit-autorefresh
+pandas
+numpy
+plotly
